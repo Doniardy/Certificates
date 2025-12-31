@@ -14,7 +14,7 @@ Welcome to my certificates repository! Here you will find all the certificates I
 - **Date**: 07/23/2025
 - **Description**: This certificate was awarded for completing a course on [subject/topic].
 
-[View Certificate]([link-to-the-file](https://www.coursera.org/account/accomplishments/specialization/U7HJGQ0E9WYE))  _(If the file is hosted online)_  
+[View Certificate](https://www.coursera.org/account/accomplishments/specialization/U7HJGQ0E9WYE])
 Or download the certificate directly by clicking below:  
 [Download](certificate-file-link)
 
